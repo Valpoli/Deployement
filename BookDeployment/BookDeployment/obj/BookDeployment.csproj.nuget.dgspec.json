@@ -1,35 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valpo\\alarache\\Deployement\\BookDeployment\\BookDeployment\\BookDeployment.csproj": {}
+    "C:\\Users\\red56\\Documents\\prog irland\\Back end\\BookDeployment\\BookDeployment\\BookDeployment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valpo\\alarache\\Deployement\\BookDeployment\\BookDeployment\\BookDeployment.csproj": {
+    "C:\\Users\\red56\\Documents\\prog irland\\Back end\\BookDeployment\\BookDeployment\\BookDeployment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valpo\\alarache\\Deployement\\BookDeployment\\BookDeployment\\BookDeployment.csproj",
+        "projectUniqueName": "C:\\Users\\red56\\Documents\\prog irland\\Back end\\BookDeployment\\BookDeployment\\BookDeployment.csproj",
         "projectName": "BookDeployment",
-        "projectPath": "C:\\Users\\valpo\\alarache\\Deployement\\BookDeployment\\BookDeployment\\BookDeployment.csproj",
-        "packagesPath": "C:\\Users\\valpo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valpo\\alarache\\Deployement\\BookDeployment\\BookDeployment\\obj\\",
+        "projectPath": "C:\\Users\\red56\\Documents\\prog irland\\Back end\\BookDeployment\\BookDeployment\\BookDeployment.csproj",
+        "packagesPath": "C:\\Users\\red56\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\red56\\Documents\\prog irland\\Back end\\BookDeployment\\BookDeployment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\valpo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\red56\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,12 +40,36 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+            "AutoMapper": {
               "target": "Package",
-              "version": "[1.10.13, )"
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
             }
           },
           "imports": [
@@ -66,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

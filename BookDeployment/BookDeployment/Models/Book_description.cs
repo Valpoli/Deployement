@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace TestApplication.Models
+namespace BookDeployment.Models
 {
     public class Book_description
     {

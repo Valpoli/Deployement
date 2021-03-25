@@ -1,6 +1,6 @@
 using Models;
 
-namespace TestApplication.DTO
+namespace BookDeployment.DTO
 {
     public class BookDTO : Library
     {
