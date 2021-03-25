@@ -98,23 +98,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\valpo\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\evanp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valpo\\projetdeploy\\Deployement\\BookDeployment\\BookDeployment\\BookDeployment.csproj",
+      "projectUniqueName": "C:\\Users\\evanp\\Deployement\\BookDeployment\\BookDeployment\\BookDeployment.csproj",
       "projectName": "BookDeployment",
-      "projectPath": "C:\\Users\\valpo\\projetdeploy\\Deployement\\BookDeployment\\BookDeployment\\BookDeployment.csproj",
-      "packagesPath": "C:\\Users\\valpo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\valpo\\projetdeploy\\Deployement\\BookDeployment\\BookDeployment\\obj\\",
+      "projectPath": "C:\\Users\\evanp\\Deployement\\BookDeployment\\BookDeployment\\BookDeployment.csproj",
+      "packagesPath": "C:\\Users\\evanp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\evanp\\Deployement\\BookDeployment\\BookDeployment\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\valpo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\evanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -163,7 +159,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
