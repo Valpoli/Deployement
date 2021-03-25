@@ -104,11 +104,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valpo\\projetdeploy\\BookDeployment\\BookDeployment\\BookDeployment.csproj",
+      "projectUniqueName": "C:\\Users\\valpo\\projetdeploy\\Deployement\\BookDeployment\\BookDeployment\\BookDeployment.csproj",
       "projectName": "BookDeployment",
-      "projectPath": "C:\\Users\\valpo\\projetdeploy\\BookDeployment\\BookDeployment\\BookDeployment.csproj",
+      "projectPath": "C:\\Users\\valpo\\projetdeploy\\Deployement\\BookDeployment\\BookDeployment\\BookDeployment.csproj",
       "packagesPath": "C:\\Users\\valpo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\valpo\\projetdeploy\\BookDeployment\\BookDeployment\\obj\\",
+      "outputPath": "C:\\Users\\valpo\\projetdeploy\\Deployement\\BookDeployment\\BookDeployment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
