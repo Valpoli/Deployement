@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nJLKK59b9S3OnL2tEKIqhO0p0T74bELKc1M/+PtRMICzE0DgUnFr+U/G5PU1f7orA9hp21KMp8P5+VJPllnhHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valpo\\projetdeploy\\BookDeployment\\BookDeployment\\BookDeployment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valpo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
