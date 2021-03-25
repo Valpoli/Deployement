@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CS8Zwv09B68CnhOXsEa8+r2RgrSz7fK6R4HT4hGSBhx+O/wrhtaOE3RvgjglnybQK+jE2+U8vSTnl605dD6/1g==",
+  "dgSpecHash": "h8ZL1N96M+REzgNAC2sgZBK4lNxEjAlGdkKgcC885qtqCX2IQwOcsFjy/BnfXQvXokoiTXq2EFOxBG5rPg3eww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\evanp\\Deployement\\BookDeployment\\BookDeployment\\BookDeployment.csproj",
+  "projectFilePath": "C:\\Users\\valpo\\alarache\\Deployement\\BookDeployment\\BookDeployment\\BookDeployment.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\evanp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+    "C:\\Users\\valpo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
   ],
   "logs": []
 }
