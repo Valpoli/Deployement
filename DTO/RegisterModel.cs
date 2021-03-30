@@ -2,6 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace DTO
 {
+    //REGISTERMODEL
     public class RegisterModel
     {
         [Required]
